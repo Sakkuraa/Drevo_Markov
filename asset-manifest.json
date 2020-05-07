@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/DrevoMarkov/static/css/main.c0e981dc.chunk.css",
+    "main.js": "/DrevoMarkov/static/js/main.91ce65e8.chunk.js",
+    "main.js.map": "/DrevoMarkov/static/js/main.91ce65e8.chunk.js.map",
+    "runtime-main.js": "/DrevoMarkov/static/js/runtime-main.3ba2164f.js",
+    "runtime-main.js.map": "/DrevoMarkov/static/js/runtime-main.3ba2164f.js.map",
+    "static/js/2.e9e82421.chunk.js": "/DrevoMarkov/static/js/2.e9e82421.chunk.js",
+    "static/js/2.e9e82421.chunk.js.map": "/DrevoMarkov/static/js/2.e9e82421.chunk.js.map",
+    "index.html": "/DrevoMarkov/index.html",
+    "precache-manifest.cde5caf1ce333d3d8a03181a16ddf1a0.js": "/DrevoMarkov/precache-manifest.cde5caf1ce333d3d8a03181a16ddf1a0.js",
+    "service-worker.js": "/DrevoMarkov/service-worker.js",
+    "static/css/main.c0e981dc.chunk.css.map": "/DrevoMarkov/static/css/main.c0e981dc.chunk.css.map",
+    "static/js/2.e9e82421.chunk.js.LICENSE.txt": "/DrevoMarkov/static/js/2.e9e82421.chunk.js.LICENSE.txt",
+    "static/media/A_C_Markov.png": "/DrevoMarkov/static/media/A_C_Markov.d54bda25.png",
+    "static/media/Anactasia_Timof_Munhalova.png": "/DrevoMarkov/static/media/Anactasia_Timof_Munhalova.33ff89e6.png",
+    "static/media/Cutar.png": "/DrevoMarkov/static/media/Cutar.f6449a2a.png",
+    "static/media/E_A_Markov.png": "/DrevoMarkov/static/media/E_A_Markov.3c54fdec.png",
+    "static/media/Ekaterina.png": "/DrevoMarkov/static/media/Ekaterina.5d2dd51a.png",
+    "static/media/Elizaveta.png": "/DrevoMarkov/static/media/Elizaveta.2f8e01e3.png",
+    "static/media/Eremei.png": "/DrevoMarkov/static/media/Eremei.a46fd7f7.png",
+    "static/media/Filipp_Cidorovich.png": "/DrevoMarkov/static/media/Filipp_Cidorovich.bdb70781.png",
+    "static/media/Holmogorov.png": "/DrevoMarkov/static/media/Holmogorov.3bccb03e.png",
+    "static/media/Innokentiy.png": "/DrevoMarkov/static/media/Innokentiy.ec013307.png",
+    "static/media/Luba.png": "/DrevoMarkov/static/media/Luba.318f9c1e.png",
+    "static/media/Ludmila.png": "/DrevoMarkov/static/media/Ludmila.4aa3c9b4.png",
+    "static/media/Marfa_Af.png": "/DrevoMarkov/static/media/Marfa_Af.990fe8f0.png",
+    "static/media/N_CII_Markov.png": "/DrevoMarkov/static/media/N_CII_Markov.3ad22d10.png",
+    "static/media/N_Cidorovich_I_Markov.png": "/DrevoMarkov/static/media/N_Cidorovich_I_Markov.75e9e2d0.png",
+    "static/media/N_MarkovI.png": "/DrevoMarkov/static/media/N_MarkovI.df98fd2c.png",
+    "static/media/Pocelckay.png": "/DrevoMarkov/static/media/Pocelckay.81bb0643.png",
+    "static/media/T_C_Markov.png": "/DrevoMarkov/static/media/T_C_Markov.3dfc2683.png",
+    "static/media/Varvara.png": "/DrevoMarkov/static/media/Varvara.2711a54d.png",
+    "static/media/Vladimir.png": "/DrevoMarkov/static/media/Vladimir.fc201ebe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ba2164f.js",
+    "static/js/2.e9e82421.chunk.js",
+    "static/css/main.c0e981dc.chunk.css",
+    "static/js/main.91ce65e8.chunk.js"
+  ]
+}
