@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Drevo_Markov/precache-manifest.17499c44cab98c948dad43e594dbf453.js"
+  "/Drevo_Markov/precache-manifest.8e4c5765df7f552839aee008200388e7.js"
 );
 
 self.addEventListener('message', (event) => {
