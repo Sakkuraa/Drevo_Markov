@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Drevo_Markov/static/css/main.4f72e427.chunk.css",
-    "main.js": "/Drevo_Markov/static/js/main.9095e659.chunk.js",
-    "main.js.map": "/Drevo_Markov/static/js/main.9095e659.chunk.js.map",
+    "main.css": "/Drevo_Markov/static/css/main.ac883809.chunk.css",
+    "main.js": "/Drevo_Markov/static/js/main.5572fe59.chunk.js",
+    "main.js.map": "/Drevo_Markov/static/js/main.5572fe59.chunk.js.map",
     "runtime-main.js": "/Drevo_Markov/static/js/runtime-main.6ea1606e.js",
     "runtime-main.js.map": "/Drevo_Markov/static/js/runtime-main.6ea1606e.js.map",
-    "static/js/2.7e0420bf.chunk.js": "/Drevo_Markov/static/js/2.7e0420bf.chunk.js",
-    "static/js/2.7e0420bf.chunk.js.map": "/Drevo_Markov/static/js/2.7e0420bf.chunk.js.map",
+    "static/js/2.ee2de7c0.chunk.js": "/Drevo_Markov/static/js/2.ee2de7c0.chunk.js",
+    "static/js/2.ee2de7c0.chunk.js.map": "/Drevo_Markov/static/js/2.ee2de7c0.chunk.js.map",
     "index.html": "/Drevo_Markov/index.html",
-    "precache-manifest.8e4c5765df7f552839aee008200388e7.js": "/Drevo_Markov/precache-manifest.8e4c5765df7f552839aee008200388e7.js",
+    "precache-manifest.a9f3a7fc67cfb00023d42d313d9e1b8d.js": "/Drevo_Markov/precache-manifest.a9f3a7fc67cfb00023d42d313d9e1b8d.js",
     "service-worker.js": "/Drevo_Markov/service-worker.js",
-    "static/css/main.4f72e427.chunk.css.map": "/Drevo_Markov/static/css/main.4f72e427.chunk.css.map",
-    "static/js/2.7e0420bf.chunk.js.LICENSE.txt": "/Drevo_Markov/static/js/2.7e0420bf.chunk.js.LICENSE.txt",
+    "static/css/main.ac883809.chunk.css.map": "/Drevo_Markov/static/css/main.ac883809.chunk.css.map",
+    "static/js/2.ee2de7c0.chunk.js.LICENSE.txt": "/Drevo_Markov/static/js/2.ee2de7c0.chunk.js.LICENSE.txt",
     "static/media/A_C_Markov.png": "/Drevo_Markov/static/media/A_C_Markov.f26f63e9.png",
-    "static/media/Anactasia_Timof_Munhalova.png": "/Drevo_Markov/static/media/Anactasia_Timof_Munhalova.33ff89e6.png",
+    "static/media/Anactasia_Timof_Munhalova.png": "/Drevo_Markov/static/media/Anactasia_Timof_Munhalova.5d8fe81c.png",
     "static/media/Cutar.png": "/Drevo_Markov/static/media/Cutar.f6449a2a.png",
     "static/media/E_A_Markov.png": "/Drevo_Markov/static/media/E_A_Markov.6ee9de35.png",
     "static/media/Ekaterina.png": "/Drevo_Markov/static/media/Ekaterina.5d2dd51a.png",
@@ -26,7 +26,8 @@
     "static/media/Marfa_Af.png": "/Drevo_Markov/static/media/Marfa_Af.d5a42fee.png",
     "static/media/N_CII_Markov.png": "/Drevo_Markov/static/media/N_CII_Markov.bd2a6d7f.png",
     "static/media/N_Cidorovich_I_Markov.png": "/Drevo_Markov/static/media/N_Cidorovich_I_Markov.c413918f.png",
-    "static/media/N_MarkovI.png": "/Drevo_Markov/static/media/N_MarkovI.df98fd2c.png",
+    "static/media/N_MarkovI.png": "/Drevo_Markov/static/media/N_MarkovI.2bca882b.png",
+    "static/media/Nogovizinu.png": "/Drevo_Markov/static/media/Nogovizinu.3af9803a.png",
     "static/media/Pocelckay.png": "/Drevo_Markov/static/media/Pocelckay.b71faf65.png",
     "static/media/T_C_Markov.png": "/Drevo_Markov/static/media/T_C_Markov.3dfc2683.png",
     "static/media/Tat_Af.png": "/Drevo_Markov/static/media/Tat_Af.e7555ad3.png",
@@ -35,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6ea1606e.js",
-    "static/js/2.7e0420bf.chunk.js",
-    "static/css/main.4f72e427.chunk.css",
-    "static/js/main.9095e659.chunk.js"
+    "static/js/2.ee2de7c0.chunk.js",
+    "static/css/main.ac883809.chunk.css",
+    "static/js/main.5572fe59.chunk.js"
   ]
 }
